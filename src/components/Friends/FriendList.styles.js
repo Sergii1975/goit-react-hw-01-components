@@ -20,7 +20,7 @@ export const FriendList = styled.li`
   :not(:last-child) {
     margin-bottom: 10px;
   }
-`;
+`
 
 export const FriendAvatar = styled.img`
 width: 75px
